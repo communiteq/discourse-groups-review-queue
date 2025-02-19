@@ -1,0 +1,4 @@
+plugins:
+  groups_review_queue_enabled:
+    default: true
+    client: true
