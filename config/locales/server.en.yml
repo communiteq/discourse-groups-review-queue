@@ -1,3 +1,4 @@
 en:
   site_settings:
     groups_review_queue_enabled: "Show user groups in the review queue"
+    groups_review_queue_suppressed_groups: "Suppress these groups from being shown"

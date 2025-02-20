@@ -2,3 +2,9 @@ plugins:
   groups_review_queue_enabled:
     default: true
     client: true
+  groups_review_queue_suppressed_groups:
+    default: "1|2|10|11|12|13|14"
+    type: group_list
+    client: false
+    allow_any: false
+    refresh: true
